@@ -12,7 +12,7 @@ Workshop研讨是一组帮助您使用Reach语言构建项目或去中心化应�
 
 以下是目前的研讨，已按照推荐的阅读顺序列出。
 
-| [4.1 研讨：Hash Lock](4.1Workshop Hash Lock.md)              |
+| [4.1 研讨：Hash Lock](https://github.com/Yumingyuan/Reach_translation/blob/main/4.1Workshop%20Hash%20Lock.md) |
 | ------------------------------------------------------------ |
 | [4.2 研讨：Relay Account](https://docs.reach.sh/workshop-relay.html) |
 | [4.3 研讨：Trust Fund](https://docs.reach.sh/workshop-trust-fund.html) |
