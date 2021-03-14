@@ -16,7 +16,7 @@ Workshop研讨是一组帮助您使用Reach语言构建项目或去中心化应�
 | ------------------------------------------------------------ |
 | [4.2 研讨：Relay Account](https://docs.reach.sh/workshop-relay.html) |
 | [4.3 研讨：Trust Fund](https://docs.reach.sh/workshop-trust-fund.html) |
-| [4.4 研讨： Fear of Missing Out](https://docs.reach.sh/workshop-fomo.html) |
+| [4.4 研讨： Fear of Missing Out](https://github.com/jasonthewhale/4.4-FOMO/blob/main/4.4%20%E7%A0%94%E8%AE%A8%EF%BC%9AFOMO.md) |
 | [4.5 研讨：Fear of Missing Out Generalized](https://github.com/Yumingyuan/Reach_translation/blob/main/4.5%20Workshop%20Fear%20of%20Missing%20Out%20Generalized.md) |
 | [4.6 研讨： Fair Rock-Paper-Scissors](https://docs.reach.sh/workshop-rps-fair.html) |
 | [4.7 研讨： Efficient Rock-Paper-Scissors](https://docs.reach.sh/workshop-rps-eff.html) |
